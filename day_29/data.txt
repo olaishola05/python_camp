@@ -1,0 +1,8 @@
+
+site: Facebook | email/username: devnetman@gmail.com | Passwd: Password123455gggd
+site: Rails Conf | email/username: devnetman@gmail.com | Passwd: paasswdwdwescsacscsacs
+site: Twitter | email/username: devnetman@gmail.com | Passwd: passworddssddsscscsqdscsc
+site: Tesla | email/username: devnetman@gmail.com | Passwd: passworddsdsdsdvdvds
+site: tesla | email/username: devnetman@gmail.com | Passwd: &80LSoDEa&GG7!E
+site: me2 | email/username: devnetman@gmail.com | Passwd: &9&w4CrkmSfi4$r
+site: Tesla | email/username: devnetman@gmail.com | Passwd: %z%$xFM%p36WY1NY
